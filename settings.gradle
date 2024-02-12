@@ -1,0 +1,4 @@
+rootProject.name = 'dummy-dependencies'
+include 'dependency1'
+include 'dependency2'
+
